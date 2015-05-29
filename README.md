@@ -10,7 +10,7 @@ Projeto de Implementação de um Compilador - Segunda Fase. Disciplina de Compil
 
 ### Gramática implementada:
 ```
-	- prog ::= PROGRAM pid ’;’ body ’.’
+  - prog ::= PROGRAM pid ’;’ body ’.’
   - body ::= [dclpart] compstmt
   - dclpart ::= VAR dcls
   - dcls ::= dcl {dcl}
