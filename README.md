@@ -1,14 +1,13 @@
 # CompiladoresFase2
 
-Projeto de Implementação de um Compilador - Segunda Fase. Disciplina de Compiladores.
+Coding Project - Second Phase. Compilers course - 2015. Federal University of São Carlos - UFSCar Sorocaba.
 
-### Desenvolvedores: 
+### Developers: 
 
-408611 - Igor Felipe Ferreira Ceridorio.
+- Igor Felipe Ferreira Ceridório
+- Daniel Ramos Miola
 
-438340 - Daniel Ramos Miola.
-
-### Gramática implementada:
+### Implemented Grammar:
 ```
   - prog ::= PROGRAM pid ’;’ body ’.’
   - body ::= [dclpart] compstmt
